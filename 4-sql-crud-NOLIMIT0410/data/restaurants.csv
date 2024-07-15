@@ -1,0 +1,1001 @@
+RestaurantID,Name,Category,PriceTier,Neighborhood,OpeningHours,ClosingHours,AverageRating,GoodForKids
+1,"Kuhlman, Nader and Daugherty",Chinese,medium,Bronx,10:43,16:37,1.9,0
+2,Grimes-Marvin,Japanese,cheap,Brooklyn,9:37,18:02,0.8,1
+3,Rosenbaum-Roberts,Mexico,medium,Manhattan,11:34,18:19,1.4,0
+4,Predovic and Sons,Mexico,expensive,Queens,9:40,14:48,4.6,1
+5,Koepp Inc,Korean,expensive,Richmond,9:53,17:56,1.2,0
+6,Satterfield Inc,Italian,cheap,Richmond,11:06,16:27,5.0,1
+7,"Zulauf, Schumm and Ferry",Japanese,expensive,Queens,9:59,15:11,2.4,1
+8,Kirlin LLC,Korean,cheap,Brooklyn,9:12,18:52,1.3,1
+9,"Davis, Stamm and Reilly",Italian,expensive,Brooklyn,10:04,16:14,0.5,0
+10,"Bashirian, Satterfield and Gislason",Chinese,expensive,Richmond,10:21,16:59,4.5,1
+11,Hyatt and Sons,Japanese,expensive,Brooklyn,9:25,16:57,4.4,1
+12,Jakubowski-McDermott,Japanese,medium,Manhattan,9:32,17:12,3.3,1
+13,"Rohan, Dickens and Lubowitz",Japanese,cheap,Brooklyn,9:36,19:32,2.1,0
+14,"Bartoletti, Willms and Lemke",Mexico,expensive,Manhattan,11:53,19:17,4.8,1
+15,Walsh and Sons,Mexico,expensive,Queens,11:09,15:58,2.4,1
+16,Schmitt Inc,Japanese,expensive,Brooklyn,9:02,17:46,0.6,1
+17,"Cassin, Ruecker and Trantow",Mexico,medium,Richmond,9:28,18:10,3.5,1
+18,Torphy Inc,Italian,expensive,Bronx,11:40,14:22,2.5,0
+19,Ortiz Group,Mexico,cheap,Richmond,11:13,14:11,4.1,1
+20,"Hackett, O'Keefe and Spencer",Korean,medium,Richmond,11:55,19:00,4.0,0
+21,"Johnson, Wyman and Metz",Japanese,cheap,Brooklyn,9:00,16:44,4.2,0
+22,Olson Inc,Korean,expensive,Brooklyn,11:00,16:46,1.1,0
+23,Aufderhar LLC,Italian,medium,Brooklyn,10:42,18:13,3.6,0
+24,"Spinka, Orn and Simonis",Mexico,cheap,Richmond,11:00,15:47,1.4,1
+25,Gerlach-Lesch,Italian,cheap,Queens,9:51,20:19,1.7,0
+26,"Huel, Bechtelar and Pfannerstill",Chinese,cheap,Brooklyn,10:21,18:35,0.0,0
+27,Tremblay Group,Italian,cheap,Richmond,10:34,20:41,2.2,1
+28,Zboncak-Harber,Mexico,cheap,Bronx,11:07,20:44,3.4,0
+29,Ferry-Pagac,Korean,cheap,Bronx,10:01,14:17,3.5,0
+30,"Ziemann, Gutmann and O'Kon",Mexico,expensive,Bronx,11:24,17:37,2.7,1
+31,Harvey and Sons,Japanese,expensive,Bronx,11:45,20:22,3.6,0
+32,"Schroeder, Lind and Howell",Thai,expensive,Brooklyn,10:11,15:05,2.2,1
+33,Satterfield LLC,Thai,expensive,Richmond,10:49,19:20,1.3,1
+34,Hane LLC,Thai,expensive,Bronx,10:54,19:41,3.3,1
+35,Price-Olson,Italian,medium,Queens,11:01,17:29,0.6,0
+36,"Von, Carter and Bartell",Chinese,medium,Richmond,11:38,16:24,4.2,0
+37,"Waelchi, Larkin and Franecki",Chinese,medium,Manhattan,9:25,18:09,2.6,1
+38,"Okuneva, Baumbach and Kiehn",Korean,medium,Brooklyn,10:28,16:47,0.3,0
+39,Douglas-Grady,Japanese,medium,Queens,11:45,17:45,4.5,1
+40,"Jast, Hodkiewicz and Little",Mexico,cheap,Bronx,9:19,14:52,1.5,1
+41,"McCullough, Crona and Friesen",Korean,cheap,Manhattan,11:10,20:17,2.0,1
+42,Ward-Schumm,Italian,medium,Brooklyn,9:27,15:29,1.2,1
+43,"Haley, Pagac and Herzog",Japanese,expensive,Manhattan,9:18,15:44,0.1,0
+44,Pfeffer and Sons,Korean,expensive,Queens,11:01,17:49,3.8,0
+45,Huel-O'Conner,Mexico,expensive,Queens,9:46,17:58,1.1,0
+46,Muller LLC,Italian,medium,Bronx,11:41,19:19,1.7,0
+47,Bradtke-Casper,Chinese,medium,Manhattan,11:06,20:47,0.6,0
+48,Smith and Sons,Thai,medium,Bronx,9:40,15:28,0.3,0
+49,Rutherford-Schimmel,Japanese,medium,Manhattan,9:43,19:16,4.8,0
+50,"Dickens, Bechtelar and Leffler",Chinese,medium,Manhattan,11:55,20:24,3.7,1
+51,Flatley-Rath,Italian,medium,Richmond,10:47,14:49,2.7,0
+52,Boyer Inc,Italian,medium,Brooklyn,9:12,14:19,1.2,0
+53,Rosenbaum-Kovacek,Thai,medium,Queens,10:47,16:28,4.5,0
+54,Nikolaus and Sons,Mexico,cheap,Brooklyn,10:13,16:37,0.8,0
+55,"Ruecker, Spinka and Shanahan",Thai,medium,Bronx,9:57,16:22,2.3,1
+56,"Grady, Olson and Vandervort",Chinese,cheap,Manhattan,11:48,18:05,1.8,1
+57,Beatty-Lemke,Mexico,expensive,Manhattan,10:05,18:11,4.2,1
+58,Fay LLC,Mexico,expensive,Bronx,10:38,15:54,3.0,1
+59,Rice-Russel,Japanese,medium,Manhattan,9:02,20:49,3.4,0
+60,Kuphal-Runte,Mexico,cheap,Manhattan,9:53,20:49,0.6,0
+61,Bogan Inc,Thai,expensive,Queens,9:07,16:20,1.4,0
+62,Hansen-Turcotte,Italian,medium,Richmond,10:09,20:54,4.2,0
+63,Barrows-Krajcik,Thai,expensive,Richmond,11:35,14:59,3.8,1
+64,Mayer Group,Mexico,expensive,Richmond,11:19,19:50,2.4,0
+65,Daniel Group,Thai,expensive,Queens,11:40,19:45,0.2,1
+66,Volkman LLC,Chinese,medium,Queens,10:12,15:59,3.5,1
+67,Collins-Prosacco,Italian,expensive,Brooklyn,11:04,20:18,0.3,1
+68,"Keeling, White and Buckridge",Japanese,expensive,Manhattan,10:16,15:51,2.1,0
+69,Hyatt-Volkman,Thai,medium,Manhattan,9:27,14:49,0.9,1
+70,Mosciski-Hauck,Japanese,cheap,Brooklyn,11:43,18:29,1.6,1
+71,"Sipes, Christiansen and Miller",Italian,expensive,Brooklyn,9:47,14:36,3.5,1
+72,Boehm-Collins,Japanese,cheap,Brooklyn,9:45,20:38,3.5,1
+73,Corkery-Lind,Chinese,expensive,Richmond,9:40,17:55,2.1,0
+74,"Ankunding, Langosh and Deckow",Chinese,medium,Brooklyn,11:11,19:43,4.5,1
+75,"Wyman, Kuhic and Klocko",Korean,expensive,Manhattan,10:40,20:44,0.5,0
+76,Farrell-Haag,Korean,cheap,Manhattan,11:17,16:24,2.3,0
+77,Dickinson and Sons,Korean,cheap,Brooklyn,10:33,17:21,2.6,0
+78,"Flatley, Rice and Torp",Korean,cheap,Queens,11:19,14:01,1.1,0
+79,Collins-Mayert,Chinese,expensive,Brooklyn,11:39,19:07,0.2,1
+80,Kuhlman-Sipes,Korean,cheap,Queens,10:32,15:04,4.5,1
+81,"Schamberger, Swift and Bernhard",Italian,expensive,Brooklyn,11:19,14:13,1.6,0
+82,Rogahn Group,Italian,medium,Richmond,9:43,14:51,1.4,1
+83,Torp-Bogan,Thai,cheap,Queens,9:16,16:28,0.4,1
+84,Botsford Group,Thai,medium,Queens,10:15,18:44,4.3,1
+85,Vandervort-Cassin,Chinese,medium,Manhattan,11:26,14:24,4.3,1
+86,Lindgren Group,Japanese,medium,Brooklyn,9:29,17:54,1.4,1
+87,Hoppe Group,Japanese,expensive,Brooklyn,10:22,18:10,0.6,1
+88,Kihn-Osinski,Italian,cheap,Brooklyn,9:38,16:16,1.2,0
+89,Keeling LLC,Chinese,cheap,Manhattan,9:31,16:06,0.1,0
+90,"Mills, Durgan and Schmitt",Chinese,expensive,Manhattan,9:33,20:30,0.1,0
+91,Fahey-Mayert,Korean,expensive,Brooklyn,10:18,19:21,1.7,1
+92,Auer Group,Korean,expensive,Queens,10:32,18:58,0.1,1
+93,Kerluke-Daugherty,Korean,cheap,Queens,9:18,15:53,1.9,1
+94,Hills-Hilll,Chinese,medium,Richmond,11:08,19:18,4.9,0
+95,Gerhold-Rogahn,Thai,cheap,Manhattan,10:12,17:23,4.7,1
+96,"Crist, Schmidt and Turner",Italian,medium,Manhattan,11:17,15:59,0.6,1
+97,"Aufderhar, Jerde and Ledner",Japanese,cheap,Manhattan,11:46,17:34,4.0,1
+98,Kessler-Johnson,Chinese,expensive,Bronx,9:32,15:20,0.5,1
+99,Koch-Luettgen,Chinese,expensive,Bronx,11:10,18:26,3.9,0
+100,"Heathcote, Aufderhar and Rippin",Mexico,cheap,Richmond,10:30,18:41,3.8,0
+101,Orn-Hoeger,Mexico,expensive,Bronx,10:04,14:12,2.5,1
+102,Bednar and Sons,Italian,expensive,Brooklyn,11:40,19:30,4.2,0
+103,Schneider Group,Italian,cheap,Manhattan,10:01,20:15,2.8,1
+104,Schoen Group,Italian,cheap,Manhattan,9:44,15:02,2.2,0
+105,"Wisozk, Bosco and Murray",Mexico,expensive,Queens,9:17,16:38,0.8,1
+106,"Strosin, Macejkovic and Schuppe",Japanese,medium,Richmond,11:07,17:18,4.5,1
+107,"Hagenes, Hoppe and Murray",Italian,cheap,Manhattan,11:34,14:18,3.4,1
+108,Emard-Gibson,Italian,expensive,Richmond,9:38,14:26,4.1,1
+109,Schultz Group,Korean,cheap,Queens,10:11,14:11,1.5,0
+110,"Cronin, Ortiz and Rogahn",Thai,expensive,Richmond,10:31,14:14,0.4,0
+111,Fisher and Sons,Chinese,expensive,Brooklyn,11:53,14:00,4.4,1
+112,Lindgren-Rempel,Japanese,cheap,Brooklyn,11:09,20:33,2.5,1
+113,"McGlynn, Hackett and Strosin",Thai,cheap,Manhattan,9:33,14:46,0.4,1
+114,Schumm-Kunze,Italian,cheap,Manhattan,9:37,20:25,2.2,1
+115,Grimes LLC,Thai,expensive,Brooklyn,10:37,17:05,3.7,0
+116,"Mante, Stehr and Rolfson",Italian,expensive,Manhattan,11:19,16:08,3.6,1
+117,"Gutmann, Bernhard and Yost",Thai,cheap,Queens,10:30,20:06,2.9,0
+118,Spinka Group,Italian,cheap,Richmond,10:23,16:47,2.5,0
+119,"Ebert, Goyette and Kozey",Korean,medium,Richmond,10:49,20:17,0.6,0
+120,McKenzie-Lind,Korean,medium,Manhattan,9:58,20:05,1.0,0
+121,Klocko-Kohler,Thai,cheap,Bronx,11:06,15:06,3.8,0
+122,Homenick Group,Thai,cheap,Brooklyn,10:40,16:21,3.6,1
+123,Hackett LLC,Korean,cheap,Richmond,10:10,16:45,4.9,0
+124,"Metz, Shanahan and Champlin",Italian,cheap,Bronx,9:29,20:57,2.8,0
+125,"Bernier, Ondricka and Greenfelder",Japanese,medium,Manhattan,9:32,15:25,2.1,1
+126,Buckridge and Sons,Italian,cheap,Bronx,9:36,20:33,0.5,1
+127,Krajcik-Jerde,Korean,medium,Bronx,11:48,19:53,3.5,1
+128,Wiza-Nicolas,Thai,cheap,Queens,10:19,19:31,4.1,1
+129,Ullrich Group,Korean,medium,Queens,9:53,14:13,0.4,0
+130,Goyette-Nader,Italian,medium,Richmond,10:13,18:59,1.0,0
+131,Hayes-Cronin,Italian,expensive,Brooklyn,9:59,15:09,4.5,1
+132,Conn-Prohaska,Mexico,cheap,Bronx,11:01,19:19,2.4,1
+133,"Lesch, Shanahan and Gusikowski",Japanese,expensive,Bronx,10:17,15:27,3.7,1
+134,"Harber, McGlynn and Haag",Mexico,expensive,Manhattan,10:14,16:17,1.5,1
+135,"Barrows, Hagenes and Kiehn",Chinese,cheap,Bronx,9:10,16:23,2.8,0
+136,"Streich, McGlynn and Macejkovic",Korean,cheap,Bronx,10:37,17:06,0.5,0
+137,"Kshlerin, Kuphal and Hamill",Korean,cheap,Bronx,10:29,16:19,2.0,0
+138,"Kessler, Zieme and Braun",Italian,cheap,Bronx,10:39,18:07,3.5,0
+139,Towne-Emard,Thai,cheap,Richmond,10:04,18:06,4.8,0
+140,"Reynolds, Rippin and Stracke",Japanese,medium,Richmond,11:15,19:51,1.5,1
+141,Yundt-Feil,Japanese,cheap,Queens,10:47,17:53,0.8,1
+142,Leffler-Quigley,Chinese,expensive,Bronx,11:18,14:58,2.3,0
+143,Murray-Bergnaum,Chinese,cheap,Manhattan,11:36,14:34,0.7,0
+144,"Bauch, Boyle and Tremblay",Italian,expensive,Richmond,10:24,15:28,2.6,0
+145,Schumm and Sons,Chinese,cheap,Manhattan,11:07,15:57,1.3,1
+146,Schowalter-Hilpert,Chinese,expensive,Bronx,10:33,18:10,3.7,0
+147,"Batz, Cassin and Deckow",Italian,medium,Brooklyn,10:43,17:10,0.5,1
+148,"Mraz, Osinski and Shanahan",Thai,medium,Brooklyn,9:56,17:45,2.6,1
+149,Olson LLC,Korean,medium,Bronx,10:14,15:43,0.9,1
+150,Windler-Kuhn,Japanese,expensive,Queens,9:25,16:50,1.3,1
+151,Greenfelder-Quitzon,Italian,medium,Manhattan,9:37,14:57,1.1,1
+152,Gerhold-Kulas,Mexico,cheap,Richmond,10:56,15:27,3.4,0
+153,Moore-Hane,Italian,expensive,Bronx,9:18,18:16,2.8,0
+154,"Zboncak, Krajcik and Bode",Thai,medium,Queens,11:31,17:41,3.6,0
+155,"Towne, Schuster and Okuneva",Italian,medium,Brooklyn,10:11,14:23,3.6,0
+156,"Fay, Hartmann and Nitzsche",Korean,medium,Queens,11:13,14:30,0.9,0
+157,Roob LLC,Italian,expensive,Richmond,10:35,20:32,3.0,0
+158,Haley and Sons,Mexico,expensive,Manhattan,11:40,17:26,4.8,0
+159,Kilback-Hilll,Chinese,cheap,Richmond,10:01,16:26,0.2,1
+160,Bednar-Weimann,Japanese,expensive,Richmond,10:14,20:24,3.4,0
+161,Turner Group,Italian,expensive,Manhattan,11:08,16:19,4.0,0
+162,Stiedemann-O'Connell,Japanese,cheap,Manhattan,10:06,14:13,4.6,1
+163,Hirthe-Altenwerth,Chinese,cheap,Brooklyn,11:25,16:09,0.9,0
+164,Bins and Sons,Korean,medium,Richmond,9:05,17:56,2.4,1
+165,Collier and Sons,Mexico,expensive,Brooklyn,11:04,16:28,0.6,0
+166,Flatley Inc,Korean,expensive,Richmond,9:18,15:19,3.1,0
+167,Jast-Roob,Thai,cheap,Manhattan,11:53,17:14,3.2,1
+168,"Feil, Hackett and Torp",Japanese,medium,Queens,10:13,19:52,3.2,1
+169,O'Keefe-Trantow,Mexico,cheap,Manhattan,11:24,17:45,0.9,1
+170,"Graham, Borer and Sporer",Thai,expensive,Bronx,10:47,20:17,0.1,1
+171,Smitham-Bosco,Korean,expensive,Queens,10:41,15:05,3.0,1
+172,Welch Inc,Korean,expensive,Queens,9:08,19:24,4.1,0
+173,Witting-Prosacco,Japanese,cheap,Queens,11:38,19:00,2.3,0
+174,Kemmer-O'Kon,Korean,medium,Bronx,10:39,19:38,2.7,1
+175,Dach Inc,Chinese,expensive,Richmond,9:36,14:34,0.7,0
+176,Greenholt and Sons,Korean,cheap,Bronx,11:20,18:41,2.3,0
+177,Purdy-Rippin,Italian,cheap,Bronx,9:19,17:54,0.6,0
+178,Schaden Group,Mexico,medium,Brooklyn,10:06,14:04,2.7,1
+179,Kozey-Maggio,Korean,expensive,Queens,10:07,20:27,2.8,0
+180,Koch-Turner,Chinese,expensive,Richmond,10:42,14:45,1.6,0
+181,"Bruen, Barrows and Barton",Japanese,expensive,Queens,11:11,15:21,0.5,0
+182,Mann and Sons,Mexico,medium,Brooklyn,11:50,20:44,4.5,1
+183,"Leannon, Vandervort and Runolfsdottir",Chinese,expensive,Brooklyn,9:41,17:04,4.3,0
+184,Connelly-Abshire,Korean,expensive,Richmond,9:57,16:28,3.7,1
+185,Koepp LLC,Korean,medium,Brooklyn,11:10,17:09,3.2,0
+186,Mertz LLC,Japanese,medium,Bronx,10:01,20:26,1.2,1
+187,"Klein, Nolan and Johnston",Italian,medium,Queens,10:38,14:57,1.1,1
+188,"Bode, Harber and Crist",Italian,medium,Brooklyn,10:21,19:52,4.8,0
+189,Mraz-Considine,Japanese,expensive,Queens,9:30,20:12,4.2,1
+190,"Larkin, O'Keefe and Steuber",Japanese,medium,Richmond,10:48,15:11,3.8,0
+191,"Kulas, Reynolds and Johnson",Japanese,expensive,Richmond,10:16,15:41,0.2,1
+192,Hoeger Inc,Korean,expensive,Queens,10:29,20:38,2.5,0
+193,Towne-Purdy,Korean,medium,Richmond,9:01,14:44,1.7,0
+194,Romaguera-Wisozk,Korean,expensive,Manhattan,9:52,19:38,2.3,0
+195,Mayer-Heaney,Italian,cheap,Bronx,10:21,15:35,2.5,0
+196,Morissette LLC,Korean,medium,Manhattan,9:14,20:31,2.0,0
+197,Fadel-Dietrich,Mexico,cheap,Manhattan,9:55,17:57,4.2,1
+198,Stamm-Frami,Japanese,medium,Richmond,9:34,16:21,4.3,1
+199,Braun Inc,Italian,expensive,Richmond,9:01,16:04,1.5,0
+200,Wisozk and Sons,Italian,expensive,Richmond,9:58,15:21,4.0,0
+201,Heller-Mohr,Korean,medium,Bronx,10:57,17:23,3.0,1
+202,"Maggio, Hickle and Flatley",Italian,expensive,Richmond,9:41,20:24,1.8,0
+203,Schuppe-Berge,Chinese,cheap,Manhattan,9:44,20:56,1.6,1
+204,Watsica Inc,Chinese,expensive,Richmond,11:09,15:29,1.9,1
+205,Zboncak-Leuschke,Japanese,expensive,Manhattan,11:59,17:32,1.8,1
+206,Conroy and Sons,Korean,expensive,Brooklyn,10:49,16:01,4.0,1
+207,Gutkowski Group,Chinese,expensive,Brooklyn,11:12,19:30,2.0,0
+208,"Gleichner, Schaefer and Osinski",Korean,medium,Richmond,9:20,15:52,4.9,0
+209,Torp and Sons,Chinese,cheap,Brooklyn,11:49,15:10,1.1,1
+210,Walter-Reinger,Chinese,expensive,Queens,11:28,19:04,1.8,1
+211,Herman Group,Japanese,cheap,Manhattan,9:04,14:39,0.7,1
+212,"Hessel, Emmerich and Bartell",Italian,expensive,Queens,10:56,15:59,0.1,1
+213,Heaney Group,Japanese,cheap,Brooklyn,11:27,14:07,3.5,1
+214,Pagac Inc,Mexico,medium,Manhattan,9:33,15:07,1.4,1
+215,Stanton Group,Japanese,medium,Manhattan,9:50,16:18,2.1,0
+216,"Larkin, Mohr and Padberg",Mexico,cheap,Richmond,10:52,14:12,0.8,0
+217,Jacobs-Wisoky,Japanese,cheap,Manhattan,10:52,17:51,3.7,0
+218,Heaney LLC,Mexico,medium,Queens,10:34,17:48,3.4,0
+219,Gutkowski-Nolan,Chinese,cheap,Queens,10:46,17:39,3.1,0
+220,"Bechtelar, Kutch and Nolan",Chinese,medium,Bronx,9:31,18:05,1.1,0
+221,Aufderhar-Harvey,Thai,medium,Manhattan,11:58,15:46,2.4,1
+222,Prohaska-Hessel,Chinese,cheap,Manhattan,9:27,19:02,2.9,0
+223,"Kassulke, Purdy and Buckridge",Italian,expensive,Brooklyn,11:19,19:21,3.0,0
+224,"West, Brown and Morar",Thai,medium,Queens,11:17,18:29,2.2,1
+225,Prosacco Group,Japanese,cheap,Richmond,11:08,16:10,2.2,1
+226,Williamson-Sawayn,Mexico,medium,Bronx,10:35,15:11,0.7,1
+227,Batz-Rau,Italian,expensive,Queens,9:04,17:20,4.2,1
+228,"Sporer, Lockman and Bogan",Japanese,medium,Queens,9:06,14:15,4.6,0
+229,"Abbott, Wyman and Koelpin",Mexico,expensive,Queens,10:58,19:57,3.0,1
+230,"Marks, Rempel and Kutch",Mexico,expensive,Queens,9:32,14:29,3.3,0
+231,"Lubowitz, Jacobs and Morissette",Chinese,expensive,Queens,10:54,18:22,5.0,1
+232,Hintz-Willms,Korean,medium,Manhattan,9:18,20:46,0.7,1
+233,Lesch-Schuppe,Japanese,medium,Richmond,11:21,18:34,1.1,0
+234,Konopelski-King,Thai,cheap,Richmond,11:47,16:39,1.1,0
+235,Towne-Emard,Mexico,cheap,Bronx,9:08,17:57,4.9,1
+236,Marquardt and Sons,Thai,expensive,Bronx,11:12,17:48,4.8,1
+237,"Yost, Corwin and Stanton",Japanese,cheap,Queens,11:05,20:43,1.8,1
+238,Glover-Hintz,Italian,expensive,Queens,10:38,19:13,1.9,0
+239,Stark Inc,Chinese,medium,Queens,10:51,17:27,0.8,1
+240,Hodkiewicz-Sanford,Mexico,medium,Bronx,11:35,19:09,2.6,1
+241,Langworth and Sons,Mexico,medium,Richmond,10:43,17:54,3.4,0
+242,Sawayn-Sauer,Chinese,cheap,Brooklyn,11:36,18:05,0.3,0
+243,"Swaniawski, Kozey and Cronin",Italian,expensive,Brooklyn,9:33,17:34,1.0,0
+244,Gerhold-Doyle,Mexico,cheap,Brooklyn,11:15,15:07,4.9,0
+245,Heller Inc,Thai,medium,Queens,9:56,17:01,4.7,0
+246,Turcotte-Daniel,Thai,cheap,Queens,11:59,19:38,3.5,0
+247,"Kiehn, Torphy and Nikolaus",Japanese,expensive,Bronx,11:20,15:01,4.7,0
+248,Hudson-Mayer,Chinese,medium,Queens,10:10,20:54,2.2,1
+249,"Roberts, Morissette and Boyer",Korean,expensive,Queens,10:42,17:33,0.0,1
+250,"Spencer, Bashirian and Bailey",Mexico,medium,Bronx,9:25,17:39,3.2,1
+251,"Batz, Auer and Mills",Italian,cheap,Manhattan,11:14,16:07,2.7,1
+252,Kertzmann-Turcotte,Korean,medium,Bronx,10:45,16:46,1.0,1
+253,Harber-Casper,Italian,medium,Manhattan,11:02,15:02,2.0,0
+254,Kshlerin-Moore,Japanese,cheap,Bronx,9:15,20:36,2.3,0
+255,Kutch-Mohr,Chinese,expensive,Queens,9:48,17:03,0.5,1
+256,Goodwin Inc,Chinese,medium,Richmond,10:08,20:22,0.7,1
+257,Nitzsche-Purdy,Korean,medium,Queens,11:03,17:06,0.9,1
+258,"Buckridge, Nicolas and Larkin",Mexico,medium,Bronx,11:39,19:20,1.4,1
+259,"Christiansen, Green and Botsford",Italian,cheap,Brooklyn,9:29,15:08,3.1,0
+260,Boyer LLC,Chinese,cheap,Manhattan,11:29,18:27,2.0,0
+261,"Bins, Cronin and Murray",Chinese,medium,Brooklyn,11:23,19:58,3.0,0
+262,Lind-Paucek,Korean,expensive,Richmond,9:37,17:28,0.2,0
+263,Wuckert Inc,Thai,cheap,Richmond,11:47,14:08,2.2,0
+264,"Harvey, Howell and Goldner",Chinese,expensive,Brooklyn,10:37,20:52,0.6,1
+265,Padberg-Renner,Korean,expensive,Manhattan,11:54,18:45,1.8,0
+266,Weissnat-Keeling,Japanese,medium,Brooklyn,10:15,14:16,4.9,0
+267,Welch LLC,Chinese,medium,Brooklyn,11:36,20:31,4.5,1
+268,"Beahan, Cummings and Towne",Japanese,medium,Queens,10:42,16:56,4.6,0
+269,"Bogisich, Harris and Harber",Italian,medium,Brooklyn,9:22,20:48,3.6,1
+270,"Berge, Willms and Borer",Korean,medium,Richmond,9:22,15:05,4.7,0
+271,"Krajcik, Howell and Hammes",Italian,cheap,Bronx,9:42,18:12,2.3,1
+272,Mayer-Konopelski,Chinese,expensive,Brooklyn,9:46,15:26,1.2,1
+273,Cummerata-Feest,Japanese,expensive,Richmond,10:58,20:39,1.7,1
+274,Rodriguez LLC,Italian,expensive,Queens,10:57,18:25,1.7,1
+275,"Greenfelder, Hayes and Cole",Thai,medium,Manhattan,11:01,15:20,3.2,0
+276,Cummerata LLC,Thai,medium,Manhattan,10:47,20:03,4.2,1
+277,Lindgren LLC,Mexico,medium,Richmond,9:04,20:14,2.5,0
+278,Abbott Group,Italian,expensive,Bronx,11:45,20:32,2.9,0
+279,Lubowitz-Hagenes,Mexico,cheap,Manhattan,9:08,18:19,0.7,1
+280,"Parisian, Hand and Predovic",Japanese,cheap,Brooklyn,11:20,18:16,4.9,0
+281,Ziemann and Sons,Chinese,cheap,Brooklyn,11:52,19:30,4.3,0
+282,"Brown, Collins and McGlynn",Korean,expensive,Bronx,11:50,19:05,3.4,0
+283,Balistreri-Kozey,Japanese,cheap,Manhattan,10:27,17:19,2.7,1
+284,Bashirian Group,Chinese,medium,Queens,10:48,15:05,2.1,0
+285,Schoen and Sons,Korean,cheap,Richmond,10:04,20:21,4.5,0
+286,O'Reilly-Altenwerth,Thai,cheap,Richmond,11:53,16:37,2.2,1
+287,"Barton, Cummerata and Reichert",Thai,medium,Bronx,11:27,17:13,4.7,0
+288,Beahan-Mayert,Mexico,medium,Queens,10:35,19:37,0.2,1
+289,"Dibbert, Kshlerin and Brown",Mexico,medium,Brooklyn,10:48,17:18,0.3,1
+290,Maggio-Lehner,Thai,cheap,Queens,11:56,15:46,1.4,0
+291,"Anderson, Treutel and Harvey",Mexico,cheap,Bronx,11:51,17:38,4.8,1
+292,Kovacek and Sons,Japanese,expensive,Brooklyn,10:28,19:22,4.8,0
+293,Ritchie-Konopelski,Korean,medium,Queens,11:07,17:43,3.9,0
+294,Feil and Sons,Italian,cheap,Brooklyn,10:40,17:15,0.1,0
+295,Kerluke-Orn,Italian,cheap,Richmond,11:13,18:19,1.2,1
+296,Harvey Inc,Chinese,medium,Manhattan,9:17,14:20,2.7,0
+297,"Wolff, Willms and Toy",Italian,medium,Bronx,11:16,15:21,1.7,0
+298,"Lubowitz, Lesch and Marks",Mexico,expensive,Brooklyn,10:20,18:27,1.9,1
+299,Brown-Johnson,Thai,cheap,Queens,9:04,20:20,4.2,0
+300,Kuhic Inc,Korean,expensive,Richmond,9:37,14:13,4.8,0
+301,Fadel Inc,Korean,expensive,Manhattan,9:29,16:09,1.8,1
+302,Langworth-Weissnat,Japanese,cheap,Manhattan,9:13,18:13,4.7,1
+303,Vandervort-Schuppe,Chinese,medium,Queens,11:27,20:15,4.5,0
+304,Bradtke-Wuckert,Chinese,expensive,Richmond,10:28,19:10,3.1,1
+305,Nikolaus-Schimmel,Italian,cheap,Queens,10:55,16:36,1.0,1
+306,Kshlerin Inc,Chinese,cheap,Brooklyn,9:20,15:48,4.9,1
+307,Schaefer-Windler,Mexico,medium,Queens,11:31,20:21,2.7,0
+308,Schroeder-Quitzon,Mexico,cheap,Manhattan,11:42,17:01,3.4,0
+309,"Von, Wolf and Smitham",Mexico,expensive,Richmond,11:43,17:09,2.9,1
+310,Russel LLC,Korean,cheap,Queens,9:10,16:45,4.8,1
+311,Smith-Bergnaum,Italian,medium,Bronx,9:09,18:40,3.6,0
+312,"Abernathy, Windler and Thiel",Italian,cheap,Queens,10:49,20:14,1.5,0
+313,Schmeler Group,Mexico,cheap,Richmond,10:00,20:43,2.3,0
+314,"Wolf, Mante and Berge",Mexico,medium,Brooklyn,9:05,14:51,4.8,0
+315,"Runte, Schowalter and Lebsack",Korean,medium,Richmond,11:06,14:31,1.1,1
+316,White-Becker,Japanese,medium,Manhattan,11:10,14:26,4.4,1
+317,Prohaska-Reichel,Thai,medium,Richmond,10:10,17:22,3.1,0
+318,Rempel-Ankunding,Chinese,expensive,Richmond,10:45,16:12,1.7,0
+319,Metz-King,Japanese,medium,Queens,11:59,14:21,1.3,1
+320,"Dach, Shields and Trantow",Chinese,cheap,Manhattan,10:55,18:06,1.5,0
+321,"Runolfsdottir, Gorczany and Schowalter",Italian,expensive,Richmond,11:51,20:34,2.3,1
+322,"Batz, Upton and O'Keefe",Korean,medium,Richmond,11:04,20:36,1.8,0
+323,"Champlin, Towne and Powlowski",Chinese,cheap,Queens,10:29,17:22,1.2,0
+324,"Quitzon, Kihn and Corwin",Korean,cheap,Queens,11:57,16:52,0.9,0
+325,Zemlak-Hagenes,Thai,cheap,Queens,11:00,14:27,0.4,1
+326,"Barton, McDermott and Roob",Mexico,expensive,Queens,10:46,14:48,2.3,1
+327,"Blanda, Schroeder and Casper",Mexico,medium,Queens,11:36,16:30,1.2,1
+328,"Stehr, Little and Windler",Italian,medium,Bronx,9:54,16:11,3.3,1
+329,"Romaguera, Reinger and Boyer",Mexico,cheap,Queens,9:28,19:11,1.7,1
+330,Marquardt-Kunde,Korean,cheap,Brooklyn,10:18,20:15,2.1,1
+331,"Ruecker, Howell and Robel",Italian,cheap,Richmond,11:12,17:24,2.6,0
+332,"Wilderman, Swift and Mayer",Italian,expensive,Manhattan,10:23,19:21,0.8,0
+333,"Veum, Rath and Mante",Japanese,cheap,Bronx,10:40,19:17,0.2,0
+334,"Jerde, Schmeler and Turcotte",Korean,medium,Brooklyn,10:41,18:11,1.0,1
+335,Reynolds Group,Chinese,cheap,Brooklyn,10:08,20:11,4.6,1
+336,Larkin and Sons,Korean,medium,Brooklyn,10:18,14:48,4.1,1
+337,Kris-Leuschke,Chinese,cheap,Brooklyn,11:40,17:21,2.8,1
+338,Langworth LLC,Mexico,cheap,Manhattan,9:20,14:33,3.5,1
+339,"Johnston, Bernier and Zieme",Thai,cheap,Brooklyn,10:02,19:25,1.4,1
+340,Berge-Lemke,Mexico,expensive,Bronx,9:27,16:53,1.2,0
+341,"Jast, Schowalter and Grimes",Chinese,expensive,Richmond,9:20,15:09,2.8,1
+342,Gulgowski-Hermann,Thai,cheap,Manhattan,9:27,15:39,1.8,0
+343,"Bailey, Waters and Spencer",Japanese,expensive,Bronx,10:34,14:34,4.3,1
+344,Feeney Group,Chinese,cheap,Manhattan,10:36,19:43,2.6,0
+345,"Aufderhar, Upton and Hoeger",Korean,expensive,Bronx,9:09,16:37,0.5,0
+346,Nienow and Sons,Chinese,cheap,Richmond,10:45,15:13,2.3,1
+347,Kilback-Price,Japanese,medium,Manhattan,9:56,16:44,3.2,1
+348,Kuvalis and Sons,Thai,cheap,Queens,10:07,16:27,4.1,0
+349,"Waelchi, Ondricka and Mayert",Chinese,expensive,Queens,9:34,16:52,1.3,0
+350,Grant-West,Korean,cheap,Richmond,10:05,19:06,4.7,1
+351,O'Conner-Abernathy,Chinese,expensive,Richmond,10:58,15:08,0.8,1
+352,Boyle Group,Korean,medium,Bronx,10:42,18:43,2.5,1
+353,"Emard, Leuschke and Bailey",Italian,cheap,Bronx,11:16,19:36,2.5,0
+354,Doyle-Zieme,Thai,cheap,Richmond,11:27,20:38,1.6,0
+355,Weimann-Kub,Thai,medium,Richmond,11:07,16:25,2.8,1
+356,Greenfelder Group,Thai,cheap,Bronx,9:31,15:53,2.9,1
+357,Waters-Beier,Japanese,medium,Bronx,10:46,15:16,2.0,0
+358,Mohr-Zboncak,Korean,expensive,Richmond,10:45,16:14,1.6,1
+359,Kuphal and Sons,Mexico,expensive,Queens,10:20,17:52,0.5,1
+360,Okuneva-Tromp,Japanese,expensive,Bronx,9:23,20:05,2.6,1
+361,Greenfelder-Pollich,Japanese,cheap,Manhattan,11:06,14:50,3.8,0
+362,Fisher and Sons,Mexico,expensive,Manhattan,9:19,18:10,3.1,0
+363,"Bergstrom, Miller and Schaefer",Korean,expensive,Queens,11:12,17:29,1.5,0
+364,"Swaniawski, Tromp and Toy",Chinese,medium,Manhattan,10:16,18:31,1.0,1
+365,Dooley-Gutmann,Chinese,expensive,Queens,9:20,15:48,1.2,0
+366,Friesen-Hodkiewicz,Thai,expensive,Bronx,11:34,16:01,0.4,0
+367,"Kovacek, Lindgren and Balistreri",Chinese,expensive,Manhattan,10:30,16:41,2.7,0
+368,Beier Group,Italian,expensive,Richmond,9:20,16:02,2.9,1
+369,"Heidenreich, Stroman and Wolff",Thai,medium,Bronx,10:31,17:08,3.7,0
+370,Feest-Zemlak,Chinese,medium,Brooklyn,9:34,15:12,3.5,0
+371,Lang-Bode,Japanese,medium,Manhattan,11:14,20:47,0.4,0
+372,"White, Carroll and Russel",Mexico,cheap,Bronx,9:58,16:07,2.8,0
+373,"Bradtke, Fadel and Flatley",Italian,cheap,Bronx,9:13,17:45,2.4,0
+374,"Crist, Spencer and Buckridge",Thai,expensive,Brooklyn,11:56,19:22,1.1,0
+375,"Hane, Abernathy and Auer",Thai,cheap,Brooklyn,10:25,16:46,3.3,1
+376,"Mitchell, Pagac and Hackett",Thai,expensive,Richmond,11:03,16:30,1.9,0
+377,Nolan-Romaguera,Korean,medium,Richmond,11:21,14:44,0.8,1
+378,Beer Group,Chinese,cheap,Richmond,11:44,15:52,4.0,0
+379,Moen-Reichert,Thai,expensive,Bronx,11:08,14:39,2.9,0
+380,"Braun, Lindgren and Lang",Korean,medium,Queens,11:20,16:06,1.3,1
+381,Harvey-Abbott,Korean,medium,Manhattan,9:40,17:47,2.9,1
+382,McKenzie Group,Japanese,medium,Queens,10:01,20:12,1.9,0
+383,Stehr-Considine,Italian,expensive,Brooklyn,10:32,14:01,0.2,1
+384,"Mertz, Daugherty and Abernathy",Chinese,cheap,Bronx,10:10,20:19,4.8,0
+385,DuBuque Group,Japanese,expensive,Manhattan,10:59,15:12,4.5,1
+386,"Steuber, Hauck and Gutmann",Japanese,medium,Manhattan,9:16,19:33,3.2,0
+387,Prosacco-Skiles,Italian,cheap,Bronx,9:33,20:54,4.7,1
+388,Spinka and Sons,Japanese,cheap,Bronx,11:36,18:18,0.7,0
+389,Von-Nienow,Chinese,cheap,Bronx,9:57,15:16,2.2,1
+390,Wiza and Sons,Thai,cheap,Queens,11:46,20:18,3.3,1
+391,Senger Inc,Mexico,cheap,Queens,9:32,14:11,1.3,0
+392,"Haag, Mohr and Reynolds",Japanese,cheap,Queens,10:42,19:47,3.8,0
+393,Baumbach Inc,Thai,cheap,Manhattan,9:32,19:59,0.7,0
+394,DuBuque Group,Japanese,medium,Bronx,11:49,20:52,2.2,0
+395,Konopelski-Rohan,Mexico,cheap,Bronx,9:22,16:46,0.6,0
+396,"Orn, Toy and Kautzer",Japanese,cheap,Queens,11:38,19:51,4.4,0
+397,Crona Inc,Japanese,expensive,Brooklyn,9:55,20:42,3.1,0
+398,Jerde-Abbott,Italian,cheap,Richmond,9:46,20:06,2.8,1
+399,Buckridge-Cummerata,Mexico,cheap,Brooklyn,9:41,18:22,2.6,1
+400,Stiedemann and Sons,Thai,cheap,Brooklyn,9:57,14:43,2.4,0
+401,Cormier-Murray,Japanese,cheap,Queens,11:19,17:59,4.9,1
+402,Marquardt-Lynch,Thai,medium,Manhattan,10:50,14:19,1.3,1
+403,Bernhard-Pagac,Italian,medium,Brooklyn,10:41,15:29,0.3,1
+404,Schiller LLC,Korean,medium,Richmond,11:39,20:52,1.1,1
+405,"Donnelly, Lesch and Bayer",Chinese,medium,Brooklyn,11:52,14:48,1.3,1
+406,Muller-Reinger,Chinese,expensive,Queens,10:37,17:50,3.2,0
+407,"Sporer, Stamm and Dickens",Thai,expensive,Brooklyn,11:19,18:26,1.9,0
+408,Collier Inc,Mexico,medium,Richmond,11:54,17:45,1.0,1
+409,"Zieme, Schmidt and Reynolds",Mexico,expensive,Bronx,9:00,15:04,4.4,1
+410,Feeney-Heller,Mexico,medium,Queens,10:13,15:35,1.9,0
+411,Ziemann-Morar,Italian,cheap,Bronx,10:40,19:55,3.6,0
+412,Dietrich Group,Korean,cheap,Queens,11:21,15:55,4.9,0
+413,Greenfelder Inc,Mexico,expensive,Queens,10:24,19:49,3.4,0
+414,Rath-Feest,Korean,medium,Manhattan,11:43,17:00,1.1,1
+415,Schaefer Inc,Thai,expensive,Richmond,11:18,17:04,2.3,1
+416,"Orn, Zemlak and Erdman",Mexico,cheap,Brooklyn,11:10,17:36,4.2,1
+417,Cremin-Spencer,Italian,expensive,Bronx,11:13,19:53,2.9,1
+418,Waelchi-Hills,Chinese,medium,Queens,10:43,17:10,4.6,0
+419,Jacobs-Gerhold,Chinese,expensive,Queens,10:01,16:56,3.0,1
+420,Jenkins Group,Chinese,cheap,Brooklyn,10:52,16:54,0.8,1
+421,"Steuber, Hansen and Lowe",Korean,cheap,Queens,9:31,17:55,2.7,1
+422,Leuschke Group,Korean,expensive,Queens,9:51,20:14,0.9,0
+423,"Kilback, Mitchell and Tillman",Thai,expensive,Manhattan,11:43,18:04,4.2,1
+424,Erdman-Nienow,Thai,medium,Brooklyn,11:15,15:06,2.0,1
+425,Mohr LLC,Japanese,medium,Manhattan,9:13,15:06,4.3,0
+426,Shanahan Inc,Mexico,cheap,Bronx,10:04,20:30,4.9,1
+427,White-Fritsch,Korean,expensive,Bronx,11:33,14:53,1.7,1
+428,Runolfsdottir-Marks,Japanese,cheap,Manhattan,11:35,14:55,1.0,0
+429,Hickle-Windler,Thai,medium,Richmond,10:46,19:42,3.5,1
+430,Beer LLC,Mexico,expensive,Richmond,10:40,16:47,3.7,0
+431,Bogisich LLC,Chinese,cheap,Manhattan,9:16,18:54,0.2,1
+432,McCullough-Walker,Chinese,cheap,Queens,10:08,14:24,3.2,0
+433,"Grant, Rice and Ratke",Mexico,cheap,Brooklyn,9:15,14:44,1.1,0
+434,Runolfsson-Gottlieb,Korean,expensive,Manhattan,10:52,15:53,0.2,1
+435,"Lynch, Collier and Denesik",Thai,cheap,Brooklyn,9:30,14:11,2.5,0
+436,Hintz-Shields,Mexico,medium,Brooklyn,11:20,16:41,1.5,0
+437,Grady Inc,Korean,cheap,Manhattan,11:48,19:18,0.1,1
+438,Barton-Hermann,Japanese,cheap,Queens,11:05,16:02,3.6,1
+439,Fahey and Sons,Italian,medium,Queens,9:15,14:01,3.3,0
+440,Heller-Mraz,Chinese,expensive,Brooklyn,11:18,16:34,3.9,1
+441,"Dibbert, Donnelly and O'Reilly",Italian,expensive,Brooklyn,9:51,17:25,4.2,1
+442,Kutch-Torp,Korean,expensive,Richmond,10:55,14:34,1.0,0
+443,"Kirlin, Hegmann and Grimes",Thai,cheap,Manhattan,10:13,15:58,3.0,1
+444,Wolff-Murphy,Mexico,medium,Manhattan,11:37,15:09,1.9,0
+445,"Runte, Hagenes and Rutherford",Mexico,expensive,Bronx,11:31,20:40,2.1,1
+446,Aufderhar-Maggio,Chinese,medium,Manhattan,9:47,19:11,3.6,1
+447,Breitenberg-Prohaska,Mexico,medium,Bronx,11:24,15:47,5.0,0
+448,"Rath, Harber and Mraz",Italian,medium,Manhattan,10:19,18:54,3.7,0
+449,Hettinger Inc,Chinese,cheap,Richmond,9:06,17:01,4.0,0
+450,"Gerhold, Langworth and Braun",Thai,cheap,Queens,10:39,19:29,1.7,1
+451,Nitzsche Inc,Thai,expensive,Manhattan,10:52,20:30,1.1,0
+452,Haley LLC,Japanese,cheap,Richmond,10:14,16:23,4.3,0
+453,Little-Zemlak,Mexico,medium,Manhattan,9:22,19:58,3.9,1
+454,"Dibbert, Sawayn and Bergnaum",Mexico,medium,Queens,9:14,20:06,1.4,0
+455,"Mann, Jast and Wehner",Mexico,cheap,Brooklyn,10:20,16:39,2.7,0
+456,"Auer, Abshire and Ledner",Korean,cheap,Queens,9:04,15:41,0.5,1
+457,"Cummerata, Koepp and Dach",Korean,cheap,Richmond,10:35,15:17,1.3,0
+458,"Marks, Lubowitz and Parker",Japanese,medium,Bronx,10:03,15:26,0.3,0
+459,Watsica-Kuphal,Thai,medium,Queens,10:24,17:05,2.9,0
+460,Marks-Paucek,Mexico,medium,Richmond,11:17,19:26,4.8,0
+461,Funk-Gottlieb,Japanese,cheap,Bronx,10:17,14:43,3.1,1
+462,"Hoeger, Watsica and Nader",Thai,expensive,Manhattan,9:36,15:30,2.1,0
+463,Fisher-Jakubowski,Korean,medium,Queens,10:11,16:26,3.3,1
+464,O'Conner Group,Korean,medium,Brooklyn,9:21,15:16,0.2,1
+465,"Luettgen, Howell and Cummings",Mexico,expensive,Manhattan,9:02,17:12,0.8,0
+466,MacGyver-Lind,Italian,cheap,Richmond,9:58,19:23,1.3,1
+467,O'Connell Group,Japanese,expensive,Brooklyn,9:26,16:09,2.6,1
+468,"Bartell, Collier and Howell",Italian,cheap,Brooklyn,10:14,15:41,4.3,1
+469,Carter and Sons,Italian,medium,Bronx,11:31,19:15,1.7,0
+470,Bauch-Carter,Italian,medium,Brooklyn,11:18,17:30,0.3,1
+471,Langworth LLC,Italian,expensive,Brooklyn,11:15,15:20,2.2,1
+472,Purdy-Grady,Japanese,cheap,Brooklyn,10:55,20:18,0.9,1
+473,Boehm-Marvin,Thai,cheap,Bronx,10:17,14:12,4.7,0
+474,"O'Kon, Denesik and Stiedemann",Chinese,expensive,Richmond,10:09,17:50,1.5,1
+475,"Bashirian, Rodriguez and Hyatt",Chinese,cheap,Bronx,10:45,17:54,2.1,0
+476,Jacobs-Schowalter,Japanese,cheap,Richmond,9:27,16:20,1.6,1
+477,Spinka LLC,Korean,cheap,Queens,10:32,19:27,1.5,0
+478,Klein Inc,Thai,medium,Bronx,10:41,15:07,2.6,1
+479,Smitham-Kuhlman,Japanese,cheap,Richmond,11:56,18:41,3.4,0
+480,Hermann-Prosacco,Japanese,medium,Manhattan,11:41,17:15,4.0,0
+481,"Aufderhar, Miller and Schiller",Chinese,expensive,Brooklyn,9:24,17:28,1.1,0
+482,Armstrong-Beatty,Thai,expensive,Bronx,11:59,18:11,0.4,1
+483,Runte-Adams,Korean,expensive,Queens,10:16,19:02,3.3,0
+484,Goodwin-Rolfson,Japanese,medium,Manhattan,10:23,15:03,2.5,0
+485,Hamill and Sons,Korean,expensive,Brooklyn,10:25,19:26,2.8,1
+486,"Emard, Orn and Schaden",Korean,cheap,Manhattan,9:38,17:37,3.6,0
+487,"Runte, Blick and Doyle",Chinese,cheap,Bronx,9:26,18:22,2.4,0
+488,Larkin-Yundt,Japanese,cheap,Richmond,11:19,19:32,5.0,1
+489,Pfannerstill-Jakubowski,Chinese,expensive,Queens,9:39,14:12,0.5,0
+490,Gorczany Inc,Chinese,expensive,Queens,11:31,17:31,3.9,0
+491,Block Group,Japanese,expensive,Manhattan,9:33,18:49,1.8,0
+492,Cronin-Streich,Japanese,medium,Richmond,11:39,17:51,2.3,1
+493,Rath LLC,Mexico,expensive,Queens,9:07,15:22,1.0,0
+494,"Zemlak, Sanford and Dach",Korean,cheap,Manhattan,10:00,15:06,4.0,0
+495,"Heathcote, Parker and Hudson",Chinese,medium,Queens,10:06,18:04,0.2,0
+496,Steuber-Ebert,Thai,expensive,Manhattan,10:30,18:57,2.0,0
+497,Nitzsche Group,Thai,cheap,Brooklyn,9:57,19:04,3.7,0
+498,Stracke-Connelly,Thai,expensive,Manhattan,10:41,18:26,2.2,1
+499,"Bartoletti, Witting and Bartell",Japanese,expensive,Richmond,10:59,19:41,2.9,1
+500,Ernser-Dach,Thai,expensive,Manhattan,11:24,18:34,3.5,0
+501,Kunde-McLaughlin,Mexico,expensive,Brooklyn,9:37,17:26,2.5,0
+502,Parker Group,Korean,cheap,Brooklyn,10:36,15:12,0.0,0
+503,Bauch Group,Japanese,medium,Manhattan,10:27,17:35,0.3,1
+504,Murray-Murphy,Thai,cheap,Manhattan,10:22,15:20,0.8,0
+505,Bednar-Hartmann,Mexico,expensive,Manhattan,9:21,17:51,4.0,1
+506,"Effertz, Yundt and Sporer",Mexico,medium,Brooklyn,9:13,14:49,4.0,0
+507,Halvorson-Kohler,Mexico,expensive,Richmond,9:32,16:05,4.3,0
+508,"Dicki, Littel and Stamm",Italian,cheap,Manhattan,10:28,19:35,2.4,1
+509,Larson Group,Thai,cheap,Brooklyn,9:04,18:30,0.8,0
+510,O'Keefe LLC,Chinese,medium,Manhattan,10:07,20:15,1.0,1
+511,Walsh-Kuhlman,Mexico,medium,Bronx,9:14,16:50,3.6,0
+512,Jakubowski-Bernier,Chinese,cheap,Manhattan,11:18,15:29,4.7,1
+513,Bruen-Rippin,Italian,medium,Brooklyn,10:15,19:11,1.8,1
+514,"Brakus, Weissnat and Osinski",Chinese,expensive,Richmond,9:06,15:46,0.1,0
+515,"Christiansen, Homenick and Lockman",Italian,cheap,Queens,9:28,17:13,1.2,1
+516,Ernser-Hayes,Mexico,medium,Richmond,11:04,19:14,1.0,0
+517,Ryan-Baumbach,Mexico,expensive,Richmond,11:10,15:22,0.9,1
+518,Rippin Inc,Italian,expensive,Bronx,11:34,20:35,2.9,0
+519,Monahan-Fisher,Italian,expensive,Bronx,11:18,15:51,1.1,1
+520,Lakin and Sons,Mexico,cheap,Manhattan,9:54,19:56,1.9,1
+521,Zieme-Predovic,Chinese,expensive,Bronx,11:22,17:35,4.8,1
+522,"Balistreri, Ernser and Schinner",Chinese,medium,Queens,10:18,20:10,2.9,0
+523,"White, Yost and Reichel",Chinese,expensive,Bronx,10:55,19:52,3.5,1
+524,Koelpin-Buckridge,Mexico,medium,Queens,10:52,15:55,3.4,0
+525,"Barrows, Wintheiser and Ortiz",Korean,medium,Brooklyn,10:26,19:00,0.8,1
+526,Ledner Inc,Japanese,cheap,Manhattan,10:13,14:17,4.4,1
+527,Hermann and Sons,Japanese,expensive,Bronx,9:28,15:19,3.5,0
+528,Kertzmann-Wintheiser,Chinese,medium,Manhattan,11:51,19:34,2.5,0
+529,Kohler-Hudson,Chinese,medium,Richmond,10:48,18:55,3.7,0
+530,Wolf-Koelpin,Korean,medium,Manhattan,9:08,14:37,3.6,0
+531,Connelly LLC,Japanese,cheap,Queens,10:00,16:27,2.0,1
+532,Douglas Group,Mexico,expensive,Brooklyn,10:16,19:39,4.3,0
+533,McClure Group,Mexico,cheap,Richmond,11:05,17:09,4.6,0
+534,Glover-Bernier,Thai,expensive,Brooklyn,9:30,14:09,1.1,1
+535,"Hauck, Rogahn and Carroll",Thai,expensive,Queens,9:05,20:25,1.3,0
+536,Graham LLC,Thai,cheap,Brooklyn,9:01,19:16,4.4,1
+537,Larkin-Dach,Chinese,cheap,Queens,9:50,19:03,3.3,1
+538,Homenick Inc,Mexico,cheap,Manhattan,11:44,19:56,1.7,1
+539,"Bogan, Casper and Kiehn",Chinese,expensive,Brooklyn,11:05,15:55,3.0,0
+540,Brakus Inc,Japanese,expensive,Manhattan,11:45,19:53,2.3,1
+541,Hand-Prosacco,Italian,medium,Richmond,11:53,16:16,2.9,0
+542,"Weimann, Will and Rau",Mexico,expensive,Manhattan,9:48,14:33,4.5,1
+543,"Hettinger, Block and Smitham",Italian,expensive,Manhattan,10:11,14:09,1.9,0
+544,"Thompson, Dickinson and Schaefer",Mexico,expensive,Richmond,11:24,15:19,4.1,1
+545,Davis Inc,Chinese,cheap,Bronx,10:51,19:32,0.0,0
+546,"Ondricka, Adams and Jaskolski",Korean,expensive,Manhattan,11:44,20:33,2.4,0
+547,Emard Group,Chinese,medium,Richmond,11:50,18:29,1.1,0
+548,Gutmann-Schulist,Mexico,cheap,Brooklyn,10:18,16:46,4.2,0
+549,Feil Group,Korean,expensive,Queens,10:57,16:39,1.0,1
+550,Nikolaus-McDermott,Italian,expensive,Queens,11:09,18:22,3.2,0
+551,Crist Group,Mexico,medium,Manhattan,11:32,20:36,2.0,0
+552,"West, O'Conner and Miller",Japanese,cheap,Brooklyn,9:55,14:23,0.5,1
+553,Johns-Bruen,Mexico,medium,Brooklyn,11:38,14:38,1.8,1
+554,"Senger, Rowe and Weimann",Thai,cheap,Queens,10:22,14:09,3.9,1
+555,"Corwin, King and Welch",Chinese,medium,Bronx,10:01,18:20,2.6,1
+556,Corwin-Metz,Thai,medium,Bronx,11:05,16:32,4.6,1
+557,Brakus-Howell,Thai,expensive,Manhattan,11:27,17:30,4.0,1
+558,"Toy, Bayer and Mayert",Thai,expensive,Manhattan,10:27,17:43,4.8,0
+559,"Hoppe, Stoltenberg and D'Amore",Korean,medium,Manhattan,9:14,18:44,0.1,1
+560,Tromp-Treutel,Korean,cheap,Bronx,10:07,15:10,2.3,0
+561,Herman Inc,Italian,cheap,Bronx,10:20,14:04,1.3,0
+562,Batz Inc,Thai,medium,Bronx,9:53,18:15,0.3,1
+563,Vandervort LLC,Thai,medium,Manhattan,11:48,16:42,0.6,1
+564,Mueller-Hermiston,Korean,cheap,Richmond,11:36,16:11,5.0,1
+565,Weissnat and Sons,Chinese,medium,Richmond,11:49,15:02,0.2,0
+566,Koch-Pagac,Japanese,expensive,Manhattan,9:50,16:29,0.1,1
+567,Spinka and Sons,Chinese,medium,Manhattan,11:24,15:15,1.1,0
+568,"Sauer, Lindgren and Reinger",Mexico,expensive,Richmond,11:05,20:01,3.4,0
+569,Jacobi LLC,Mexico,medium,Richmond,9:07,16:02,3.9,1
+570,Nolan Inc,Korean,expensive,Richmond,11:16,16:29,0.5,0
+571,"Considine, Lubowitz and Mills",Korean,expensive,Queens,10:11,18:40,2.0,0
+572,Wolf-O'Reilly,Thai,expensive,Queens,10:03,17:27,3.2,0
+573,Renner and Sons,Japanese,cheap,Richmond,10:54,15:58,4.8,1
+574,Nolan-Brakus,Chinese,medium,Manhattan,9:36,15:34,3.9,1
+575,Fahey Inc,Mexico,cheap,Bronx,11:51,20:36,3.8,0
+576,Bednar-Hackett,Thai,cheap,Bronx,10:18,15:58,3.5,0
+577,Marvin Inc,Mexico,cheap,Bronx,10:35,19:12,3.6,1
+578,Hackett-Dickens,Japanese,cheap,Bronx,10:30,14:20,1.3,0
+579,Upton-Lynch,Thai,cheap,Manhattan,10:11,15:06,3.8,1
+580,"Bogan, Harber and Kirlin",Japanese,medium,Richmond,10:26,19:38,1.1,0
+581,"Schaefer, Mante and Koelpin",Korean,medium,Brooklyn,10:34,18:08,3.2,1
+582,"Green, Kling and Bartoletti",Chinese,medium,Queens,9:45,19:01,0.6,0
+583,Legros LLC,Thai,expensive,Richmond,10:54,18:19,1.8,1
+584,Frami LLC,Italian,medium,Manhattan,9:26,15:00,2.9,0
+585,Mosciski LLC,Italian,medium,Bronx,9:35,18:06,1.2,0
+586,Klocko-Welch,Italian,medium,Manhattan,10:52,18:58,0.7,1
+587,Lebsack Group,Japanese,medium,Brooklyn,10:49,16:33,0.9,0
+588,Wyman-Koss,Japanese,medium,Bronx,10:34,14:28,1.2,1
+589,O'Hara LLC,Italian,expensive,Bronx,9:49,16:45,1.4,1
+590,Schmeler LLC,Chinese,cheap,Bronx,11:20,20:02,0.6,0
+591,"Swift, Mosciski and Wiza",Japanese,medium,Richmond,9:38,16:42,1.9,0
+592,Senger-Boehm,Mexico,medium,Bronx,10:35,20:32,4.9,1
+593,Hamill LLC,Thai,medium,Manhattan,10:56,14:47,2.5,0
+594,Abshire Inc,Thai,cheap,Richmond,10:45,19:09,0.4,0
+595,Schroeder and Sons,Japanese,expensive,Richmond,10:53,15:18,0.1,0
+596,Mills LLC,Korean,cheap,Brooklyn,11:16,14:21,3.9,0
+597,Bartoletti-Hettinger,Chinese,cheap,Manhattan,10:46,16:04,4.7,0
+598,Terry Inc,Italian,medium,Richmond,11:35,18:45,1.7,0
+599,"Spencer, Boehm and Wisoky",Italian,medium,Manhattan,9:07,16:15,2.0,1
+600,Russel-Gleason,Chinese,cheap,Manhattan,11:48,18:00,2.8,0
+601,"Haag, Goyette and Morar",Thai,medium,Richmond,11:05,14:12,0.3,0
+602,"Zieme, Johnson and Kunde",Italian,medium,Richmond,10:57,17:17,0.4,0
+603,"Hilll, Doyle and Fisher",Korean,medium,Bronx,10:13,14:54,2.8,1
+604,Moen Group,Chinese,cheap,Bronx,11:49,19:13,4.4,1
+605,Lesch Group,Chinese,medium,Bronx,11:54,14:17,1.2,0
+606,Monahan-Lind,Korean,expensive,Manhattan,9:54,17:33,1.4,0
+607,Skiles-Grimes,Korean,expensive,Brooklyn,11:06,19:20,1.4,0
+608,Emard and Sons,Chinese,cheap,Brooklyn,11:12,16:18,2.3,1
+609,Predovic-Pfannerstill,Japanese,medium,Manhattan,10:28,20:09,0.4,1
+610,"Leannon, Rosenbaum and Hickle",Thai,expensive,Bronx,11:39,19:31,2.9,0
+611,"Hagenes, D'Amore and Murazik",Mexico,expensive,Richmond,11:27,14:25,0.8,1
+612,Howell LLC,Chinese,expensive,Bronx,9:23,18:40,1.1,1
+613,Okuneva-Ruecker,Japanese,medium,Queens,10:56,15:04,1.5,1
+614,"Rolfson, Gorczany and Nader",Korean,cheap,Richmond,9:25,20:38,3.3,1
+615,Krajcik Group,Mexico,medium,Queens,10:50,19:46,2.7,0
+616,Rau-Nolan,Korean,expensive,Manhattan,9:02,20:38,0.6,1
+617,Hickle Inc,Japanese,cheap,Bronx,10:12,18:37,0.9,1
+618,Hodkiewicz-Wuckert,Mexico,cheap,Manhattan,9:10,16:09,4.1,0
+619,Hirthe-Hamill,Thai,expensive,Bronx,10:53,17:06,3.1,0
+620,"McCullough, Trantow and Zemlak",Italian,medium,Manhattan,11:31,16:21,4.4,1
+621,Yost-Braun,Italian,expensive,Bronx,10:09,15:32,1.3,0
+622,Weimann Inc,Thai,medium,Bronx,9:28,17:35,2.5,0
+623,Skiles Inc,Italian,expensive,Bronx,11:12,18:19,1.9,0
+624,Mueller and Sons,Japanese,expensive,Brooklyn,10:15,14:52,2.1,1
+625,"Schuppe, Wehner and Gorczany",Mexico,cheap,Queens,10:46,20:07,2.6,1
+626,"Cormier, Kris and Roob",Korean,medium,Queens,10:01,19:20,4.9,0
+627,Haley LLC,Japanese,cheap,Manhattan,9:49,16:09,1.6,1
+628,Grimes-Kiehn,Italian,medium,Bronx,11:45,16:01,3.2,1
+629,Vandervort Group,Thai,cheap,Queens,10:07,14:30,4.7,0
+630,"Jaskolski, Ferry and Kuphal",Thai,cheap,Bronx,10:25,14:22,3.7,1
+631,Reichert-Parker,Thai,medium,Brooklyn,10:54,19:22,2.0,0
+632,Gutkowski-Zemlak,Thai,cheap,Richmond,9:49,14:16,3.8,1
+633,Schumm-Wolff,Mexico,expensive,Bronx,9:40,17:41,1.1,0
+634,O'Reilly LLC,Korean,medium,Manhattan,9:10,19:29,4.3,0
+635,Terry-Berge,Thai,medium,Brooklyn,11:15,16:00,4.2,1
+636,Champlin LLC,Italian,expensive,Queens,10:48,18:37,4.7,0
+637,Kiehn Inc,Korean,medium,Richmond,9:29,15:16,1.5,1
+638,"Kuhn, O'Reilly and Towne",Italian,expensive,Manhattan,11:06,16:30,1.7,1
+639,"Hand, O'Connell and Williamson",Italian,cheap,Richmond,10:05,18:06,2.3,0
+640,Marvin Group,Mexico,medium,Richmond,10:23,16:36,1.1,1
+641,Lueilwitz-Heathcote,Thai,cheap,Manhattan,11:58,19:18,0.6,0
+642,"Leffler, Kohler and Mayer",Chinese,medium,Manhattan,9:37,19:52,5.0,0
+643,Leffler Group,Chinese,cheap,Bronx,11:05,19:33,2.6,0
+644,Conn-Schinner,Japanese,medium,Brooklyn,11:38,14:55,0.0,0
+645,"Conroy, Dach and Stamm",Korean,expensive,Bronx,11:17,18:08,4.8,1
+646,Parisian LLC,Korean,expensive,Bronx,9:59,19:21,0.0,1
+647,"Friesen, Reichert and Herzog",Korean,expensive,Bronx,9:45,17:06,4.1,0
+648,"Adams, Simonis and Klocko",Mexico,expensive,Queens,9:36,18:39,1.6,1
+649,Lindgren-Sanford,Thai,medium,Manhattan,9:55,15:31,2.0,0
+650,"Sanford, Gleason and Bergstrom",Korean,medium,Manhattan,9:04,15:32,3.1,0
+651,"Altenwerth, Shanahan and Wiza",Chinese,expensive,Brooklyn,11:57,17:39,3.6,1
+652,Corwin Group,Japanese,expensive,Brooklyn,11:23,17:11,3.5,0
+653,Mohr-Thompson,Thai,medium,Manhattan,11:27,15:45,1.4,0
+654,Pfeffer-Lesch,Mexico,expensive,Manhattan,10:45,14:33,0.1,1
+655,"Dietrich, Mosciski and Gerlach",Italian,expensive,Richmond,11:59,17:08,0.8,0
+656,"Rutherford, Morissette and Wilderman",Korean,medium,Richmond,11:04,17:04,1.7,1
+657,Fahey-Mertz,Korean,medium,Bronx,10:41,14:37,2.1,1
+658,Cummerata-Haag,Thai,medium,Manhattan,11:18,15:47,3.9,1
+659,Witting Group,Chinese,expensive,Queens,10:52,15:17,3.3,1
+660,Parker and Sons,Chinese,medium,Bronx,11:54,20:40,1.4,1
+661,Douglas Group,Thai,expensive,Bronx,9:37,17:58,1.3,1
+662,Hamill-Wolf,Thai,medium,Manhattan,10:50,16:24,2.8,0
+663,Schultz-Heathcote,Japanese,cheap,Richmond,9:19,18:39,2.8,0
+664,Huels LLC,Korean,expensive,Richmond,9:48,16:16,1.7,0
+665,Williamson-Johnson,Thai,medium,Manhattan,10:41,19:56,3.1,1
+666,"Lesch, Moen and Ward",Mexico,cheap,Manhattan,11:09,18:21,3.0,1
+667,"Rempel, Marquardt and Lakin",Italian,medium,Manhattan,9:55,16:29,3.0,0
+668,Schroeder Group,Italian,medium,Queens,10:49,18:59,1.0,0
+669,Stoltenberg Inc,Chinese,medium,Queens,10:41,18:27,0.5,0
+670,"Schimmel, Dietrich and Murphy",Italian,cheap,Bronx,10:18,20:08,0.2,0
+671,"Sporer, Ankunding and Fay",Mexico,cheap,Manhattan,11:23,16:51,2.9,0
+672,"Hegmann, Yost and Hilll",Thai,cheap,Queens,9:02,14:56,1.7,1
+673,"Stamm, Hahn and Trantow",Italian,expensive,Bronx,9:37,19:06,3.1,1
+674,Spencer-Bruen,Thai,expensive,Bronx,11:07,19:53,1.4,0
+675,Cormier-Veum,Italian,medium,Bronx,11:33,16:08,1.4,1
+676,"Greenholt, Kub and Macejkovic",Chinese,expensive,Richmond,10:58,15:54,3.5,0
+677,Upton Inc,Japanese,expensive,Manhattan,9:40,15:28,0.6,0
+678,Parker LLC,Chinese,cheap,Bronx,10:33,18:55,4.5,1
+679,Hilll-Leannon,Thai,cheap,Brooklyn,10:21,14:39,3.0,0
+680,"Muller, Barton and Hills",Chinese,medium,Manhattan,9:08,20:45,3.4,0
+681,"DuBuque, Fritsch and Feil",Chinese,expensive,Bronx,11:00,15:28,1.6,0
+682,McDermott and Sons,Mexico,cheap,Richmond,10:13,20:23,2.2,0
+683,Strosin Inc,Korean,cheap,Brooklyn,10:37,20:28,4.0,0
+684,Jacobi-Corwin,Chinese,medium,Queens,10:33,20:07,3.2,1
+685,"Johns, Johnston and Hane",Japanese,medium,Bronx,9:50,20:01,4.2,0
+686,Wolf-Schulist,Italian,medium,Richmond,9:37,15:26,3.3,1
+687,"Gleichner, Stracke and Lindgren",Mexico,expensive,Manhattan,10:21,15:57,4.9,0
+688,Ernser-Mraz,Japanese,medium,Manhattan,9:07,14:12,2.1,0
+689,"Kassulke, Hoeger and Hermann",Italian,expensive,Brooklyn,11:04,20:55,3.4,0
+690,"Bergnaum, O'Connell and Upton",Chinese,cheap,Manhattan,11:02,15:47,1.3,1
+691,Gislason-Stoltenberg,Chinese,medium,Bronx,11:59,19:46,2.7,0
+692,"Kautzer, Nienow and Bins",Chinese,cheap,Queens,10:18,19:55,4.1,0
+693,"Botsford, Crist and Larson",Italian,medium,Bronx,11:37,17:31,4.9,0
+694,Turcotte LLC,Mexico,expensive,Queens,11:51,19:26,1.9,1
+695,"Schumm, Weissnat and Schoen",Mexico,expensive,Manhattan,10:05,16:56,3.9,1
+696,Powlowski and Sons,Thai,expensive,Bronx,11:50,17:29,4.2,1
+697,"Rippin, Blanda and Rau",Japanese,cheap,Bronx,11:42,17:30,2.8,0
+698,Stiedemann Inc,Mexico,medium,Brooklyn,9:13,20:38,2.5,0
+699,"Maggio, Steuber and Cormier",Thai,cheap,Queens,11:11,18:35,1.7,1
+700,DuBuque Group,Mexico,expensive,Manhattan,11:08,16:49,1.1,0
+701,"Tillman, Flatley and Hammes",Mexico,expensive,Richmond,10:19,20:28,0.0,0
+702,"Dickinson, Beer and Kutch",Italian,expensive,Brooklyn,9:36,14:03,1.5,1
+703,"Lindgren, Feest and Franecki",Korean,cheap,Bronx,9:57,15:06,2.3,0
+704,Wolff and Sons,Japanese,expensive,Bronx,10:14,18:08,4.5,0
+705,Carroll Group,Chinese,expensive,Bronx,10:01,16:08,1.0,0
+706,Hermann Inc,Japanese,expensive,Manhattan,11:54,19:23,3.3,0
+707,"Mohr, Homenick and Dibbert",Mexico,medium,Bronx,10:35,18:04,3.2,1
+708,"Hamill, Roob and Yost",Chinese,medium,Manhattan,11:21,20:25,2.2,0
+709,"Hills, Mraz and Brakus",Mexico,medium,Queens,9:22,19:10,1.2,1
+710,Harris-Stanton,Japanese,medium,Richmond,11:38,16:44,4.6,0
+711,Parker Inc,Italian,expensive,Queens,11:06,17:18,3.4,0
+712,Schaden-Keebler,Italian,medium,Bronx,9:46,19:21,0.8,0
+713,"McLaughlin, McLaughlin and Metz",Chinese,expensive,Richmond,10:06,17:27,0.4,0
+714,Macejkovic Inc,Italian,cheap,Richmond,9:13,20:49,1.9,1
+715,"Labadie, Murphy and Mosciski",Chinese,medium,Manhattan,9:15,19:42,0.4,0
+716,"Considine, Stark and Emmerich",Mexico,expensive,Queens,9:07,20:11,0.7,1
+717,"Kunze, Kuhn and Turcotte",Chinese,expensive,Richmond,9:27,16:07,2.2,1
+718,Lemke-Pacocha,Japanese,cheap,Richmond,9:48,16:23,1.9,0
+719,Kovacek Inc,Korean,expensive,Richmond,10:30,19:28,4.2,0
+720,Homenick and Sons,Chinese,expensive,Richmond,11:45,17:08,4.8,1
+721,Cassin-Olson,Italian,expensive,Queens,11:35,16:22,2.5,1
+722,Braun Inc,Italian,expensive,Brooklyn,11:05,17:31,3.3,0
+723,Friesen LLC,Korean,expensive,Queens,10:46,20:15,0.7,1
+724,Kub-DuBuque,Thai,cheap,Richmond,9:07,17:24,2.9,1
+725,Wintheiser-Dare,Mexico,expensive,Richmond,9:56,14:57,0.8,0
+726,Fahey Inc,Thai,expensive,Manhattan,9:55,20:48,0.2,1
+727,Kutch-Hettinger,Chinese,medium,Bronx,10:39,19:04,2.0,1
+728,Lehner-Gleichner,Chinese,cheap,Bronx,9:40,17:06,2.9,0
+729,Grimes and Sons,Chinese,cheap,Bronx,11:34,15:37,1.4,0
+730,Bailey-Quitzon,Japanese,medium,Queens,10:02,18:58,4.5,0
+731,Dare LLC,Korean,expensive,Richmond,11:26,17:24,4.2,1
+732,Casper LLC,Mexico,expensive,Bronx,9:11,20:06,4.8,1
+733,Luettgen-Weimann,Thai,medium,Richmond,11:33,14:17,0.4,0
+734,"Goyette, Aufderhar and Romaguera",Korean,medium,Richmond,9:25,15:21,3.1,0
+735,Graham and Sons,Italian,cheap,Manhattan,9:01,16:33,4.6,1
+736,Hermann-Larkin,Japanese,medium,Bronx,11:39,15:57,1.8,0
+737,Prosacco Group,Mexico,cheap,Manhattan,11:27,18:27,4.5,0
+738,Pfeffer-Brown,Chinese,expensive,Richmond,9:05,20:29,3.7,0
+739,Gerlach and Sons,Japanese,cheap,Manhattan,9:54,14:38,1.5,0
+740,"Collins, Schuster and Aufderhar",Thai,expensive,Richmond,11:47,15:42,2.6,0
+741,Sipes-Halvorson,Mexico,cheap,Bronx,10:52,17:54,4.7,0
+742,"Powlowski, Lind and Kunze",Korean,medium,Richmond,10:14,18:21,0.0,1
+743,"Rogahn, Gorczany and Connelly",Chinese,expensive,Bronx,10:48,19:18,4.5,1
+744,"Monahan, Kilback and Wiegand",Japanese,cheap,Manhattan,10:43,19:40,4.6,0
+745,"Gleichner, Collier and Torphy",Thai,medium,Queens,9:42,19:19,0.9,0
+746,Jacobs-Heaney,Thai,cheap,Brooklyn,9:43,14:38,0.7,1
+747,Kautzer-Ruecker,Japanese,medium,Richmond,11:21,17:40,2.5,0
+748,Heller-Hane,Chinese,expensive,Brooklyn,10:28,17:32,2.5,0
+749,Hodkiewicz Group,Japanese,cheap,Brooklyn,11:02,15:29,1.4,1
+750,Hoeger LLC,Thai,cheap,Manhattan,9:51,15:21,2.9,1
+751,Runte LLC,Korean,cheap,Brooklyn,11:40,18:16,2.3,0
+752,Jenkins-Ritchie,Thai,medium,Queens,11:32,17:40,0.4,1
+753,Herman LLC,Thai,cheap,Brooklyn,9:32,16:52,0.3,0
+754,Hagenes LLC,Thai,cheap,Bronx,11:06,16:33,0.6,1
+755,"Herman, Ward and Gerhold",Thai,expensive,Brooklyn,9:01,14:36,1.5,0
+756,"Watsica, Oberbrunner and Mann",Mexico,medium,Richmond,10:22,16:28,0.5,1
+757,Hagenes-Muller,Chinese,cheap,Bronx,9:14,17:09,1.7,1
+758,Schneider Group,Chinese,medium,Richmond,11:20,14:07,1.2,0
+759,Hessel-Rohan,Mexico,cheap,Richmond,9:54,16:38,0.6,1
+760,"Schumm, Pfeffer and Kutch",Chinese,expensive,Queens,9:06,17:22,3.7,0
+761,"Leannon, Hackett and Kshlerin",Chinese,medium,Manhattan,10:59,20:01,0.2,0
+762,Ernser Inc,Thai,medium,Manhattan,11:45,17:37,4.4,1
+763,Prosacco-Pouros,Chinese,expensive,Brooklyn,9:01,18:21,0.5,1
+764,Stokes LLC,Japanese,medium,Manhattan,10:28,15:31,4.4,1
+765,Hudson Inc,Japanese,expensive,Manhattan,10:26,20:35,1.2,1
+766,Lueilwitz Inc,Thai,medium,Brooklyn,9:57,15:46,1.6,1
+767,"Streich, Muller and Weissnat",Italian,expensive,Brooklyn,10:29,16:14,1.9,1
+768,McLaughlin and Sons,Korean,cheap,Queens,10:48,16:46,5.0,0
+769,Kuhn-Keeling,Mexico,cheap,Manhattan,11:09,15:06,0.2,1
+770,Kertzmann-Satterfield,Japanese,cheap,Queens,9:17,16:31,3.0,1
+771,"Moore, Heaney and Doyle",Thai,expensive,Manhattan,10:52,19:08,4.8,0
+772,Gottlieb Group,Mexico,medium,Bronx,10:51,20:29,0.9,1
+773,Green-Christiansen,Mexico,expensive,Bronx,9:08,17:05,1.3,1
+774,Bartell Group,Korean,medium,Manhattan,11:14,20:04,4.2,1
+775,Trantow-Padberg,Italian,cheap,Manhattan,9:55,17:02,2.4,1
+776,Abernathy-Thompson,Italian,medium,Queens,9:50,14:52,1.8,1
+777,"Tillman, Mosciski and Thompson",Thai,medium,Richmond,9:54,17:45,1.5,1
+778,Denesik and Sons,Thai,cheap,Bronx,9:09,14:40,2.5,1
+779,"Williamson, Mayert and Kertzmann",Japanese,cheap,Richmond,10:05,17:38,4.9,0
+780,"Von, Toy and Johns",Chinese,cheap,Manhattan,11:33,17:07,3.5,0
+781,Bauch and Sons,Japanese,medium,Bronx,10:07,20:13,2.3,1
+782,McLaughlin-Emard,Japanese,medium,Richmond,9:44,15:11,4.0,1
+783,"Schowalter, Walsh and Greenholt",Japanese,expensive,Brooklyn,10:21,19:47,4.8,1
+784,"Conroy, Cartwright and McClure",Thai,medium,Bronx,9:01,16:54,3.7,1
+785,Wiza Inc,Japanese,cheap,Bronx,9:07,20:33,1.5,1
+786,Armstrong-Schumm,Italian,expensive,Bronx,11:05,16:22,3.9,1
+787,Pacocha-Strosin,Chinese,expensive,Brooklyn,11:28,20:43,4.6,0
+788,Carter Group,Mexico,cheap,Bronx,10:27,15:30,1.2,1
+789,Hills-Trantow,Italian,cheap,Brooklyn,11:30,20:58,0.4,1
+790,Zieme-Legros,Mexico,cheap,Bronx,9:12,19:25,2.8,0
+791,Morar-Lubowitz,Mexico,medium,Bronx,11:22,17:29,2.5,1
+792,"Mann, Lynch and Waters",Italian,cheap,Manhattan,9:44,20:59,0.9,1
+793,Krajcik LLC,Mexico,expensive,Queens,11:35,18:57,0.7,0
+794,Ankunding Inc,Italian,cheap,Queens,11:07,16:26,4.3,1
+795,Morissette Group,Japanese,expensive,Manhattan,10:28,14:28,1.3,0
+796,"Kihn, Hamill and Yost",Chinese,expensive,Brooklyn,9:04,15:14,3.1,0
+797,Senger-Batz,Thai,medium,Bronx,11:37,15:06,3.8,1
+798,Ullrich-Waelchi,Japanese,expensive,Richmond,10:58,16:39,3.4,0
+799,"Thiel, Weissnat and Murray",Thai,medium,Manhattan,10:09,20:57,3.4,1
+800,Senger-Bergstrom,Chinese,expensive,Brooklyn,10:12,19:11,4.7,0
+801,"Maggio, Kihn and Collier",Korean,medium,Richmond,11:37,14:12,0.6,0
+802,Schiller-Stehr,Korean,expensive,Manhattan,10:33,19:53,2.1,1
+803,"Toy, Becker and Lowe",Korean,medium,Queens,11:07,20:27,4.2,0
+804,Langworth Inc,Mexico,cheap,Bronx,11:06,15:08,2.7,0
+805,Schroeder-Doyle,Italian,medium,Richmond,9:32,19:29,2.7,1
+806,Bechtelar-Rodriguez,Thai,cheap,Manhattan,11:42,16:46,0.4,0
+807,Fadel-Mueller,Italian,expensive,Richmond,10:09,17:29,4.6,1
+808,Dach Inc,Italian,expensive,Richmond,11:58,16:27,2.4,0
+809,Krajcik LLC,Thai,expensive,Queens,11:12,17:29,0.4,0
+810,"Konopelski, Greenholt and Cummings",Japanese,cheap,Brooklyn,9:57,19:04,3.6,1
+811,"Lesch, Okuneva and Haag",Thai,expensive,Queens,11:31,15:47,1.1,1
+812,"Fritsch, Sipes and Bechtelar",Japanese,cheap,Queens,10:17,20:15,3.5,0
+813,Parisian Group,Thai,medium,Manhattan,10:49,14:17,2.4,0
+814,Little-Schinner,Korean,cheap,Queens,9:40,20:59,2.0,1
+815,Kessler Inc,Mexico,expensive,Brooklyn,9:12,14:16,3.3,1
+816,Kunde-Roob,Thai,cheap,Brooklyn,11:36,20:25,1.3,0
+817,"Schmidt, Wilderman and Legros",Korean,cheap,Queens,11:56,19:18,2.9,1
+818,Friesen Group,Japanese,medium,Richmond,11:49,18:36,1.9,0
+819,Trantow-Boehm,Mexico,expensive,Queens,11:51,19:20,0.2,0
+820,Lubowitz-Feest,Korean,cheap,Brooklyn,10:53,19:15,3.6,0
+821,Schuster-Roob,Japanese,medium,Queens,11:17,19:21,3.5,1
+822,"Crooks, Ebert and Kihn",Chinese,medium,Richmond,10:38,14:03,4.7,0
+823,Blick-Fahey,Japanese,cheap,Richmond,11:07,15:36,4.0,1
+824,Conroy Inc,Italian,cheap,Brooklyn,9:18,15:19,1.7,1
+825,"Kirlin, Heller and Maggio",Korean,expensive,Manhattan,11:25,16:26,4.5,0
+826,"Wiegand, Satterfield and Langosh",Korean,medium,Manhattan,9:38,15:52,0.2,0
+827,"Mraz, Von and Jacobs",Mexico,cheap,Richmond,10:55,15:43,5.0,0
+828,Rohan Group,Chinese,medium,Queens,11:33,16:13,3.7,0
+829,Rice-Olson,Chinese,medium,Queens,11:38,16:56,2.7,0
+830,Hettinger-Stroman,Chinese,medium,Manhattan,11:09,18:33,4.6,0
+831,Ritchie-Bahringer,Italian,medium,Queens,9:19,14:48,1.0,0
+832,Schroeder and Sons,Japanese,expensive,Bronx,9:34,18:39,1.0,0
+833,Boehm-Johnston,Chinese,medium,Queens,10:49,18:58,0.2,1
+834,Feil-Doyle,Thai,medium,Bronx,10:04,16:05,1.6,1
+835,Frami-Herzog,Mexico,medium,Manhattan,9:22,18:35,1.8,0
+836,Effertz and Sons,Thai,expensive,Bronx,10:01,19:03,3.3,1
+837,"Zboncak, Jenkins and Tillman",Mexico,medium,Richmond,9:11,14:42,3.6,0
+838,D'Amore and Sons,Japanese,medium,Bronx,10:43,17:05,3.8,0
+839,Kshlerin-Ryan,Thai,cheap,Manhattan,11:49,16:46,1.1,1
+840,Beier and Sons,Korean,cheap,Richmond,11:45,19:12,3.1,0
+841,Jacobson LLC,Italian,expensive,Bronx,10:14,18:00,3.5,0
+842,Fisher Inc,Korean,expensive,Bronx,11:13,17:01,3.1,1
+843,"Daugherty, Wilderman and Nitzsche",Mexico,expensive,Brooklyn,11:22,19:34,2.1,0
+844,"Gleichner, Rath and Smitham",Japanese,medium,Bronx,10:43,19:11,0.7,1
+845,"Lang, Jaskolski and Batz",Chinese,medium,Queens,10:09,15:08,0.3,0
+846,Bergnaum LLC,Japanese,expensive,Brooklyn,9:50,14:24,1.8,0
+847,Wilkinson and Sons,Thai,medium,Richmond,9:14,17:29,2.6,1
+848,Gerlach-Bergstrom,Italian,medium,Richmond,11:47,14:50,0.4,1
+849,Graham Group,Korean,medium,Bronx,11:01,14:37,4.6,1
+850,"Schultz, Corkery and Rutherford",Korean,medium,Manhattan,9:16,19:29,3.8,1
+851,Roob and Sons,Chinese,medium,Brooklyn,11:04,17:01,1.6,1
+852,Gorczany LLC,Japanese,expensive,Brooklyn,9:29,19:58,4.1,0
+853,Bailey LLC,Thai,cheap,Bronx,10:54,20:06,1.3,1
+854,Kihn Group,Thai,cheap,Brooklyn,11:16,18:51,2.3,1
+855,Stark-Becker,Thai,expensive,Queens,11:18,19:07,2.9,0
+856,"Boyle, Padberg and Funk",Mexico,medium,Queens,9:39,19:49,2.7,0
+857,"Morar, Spencer and Von",Mexico,medium,Richmond,10:58,20:59,0.4,1
+858,Terry-Johnson,Mexico,expensive,Brooklyn,11:03,20:57,2.6,0
+859,Gutmann Group,Mexico,medium,Bronx,9:00,18:29,1.7,0
+860,Auer and Sons,Chinese,expensive,Manhattan,10:37,14:33,1.2,0
+861,"Kuvalis, Feeney and Cole",Mexico,medium,Bronx,9:20,20:50,4.7,1
+862,McDermott-Kuphal,Thai,medium,Bronx,10:05,19:56,4.3,1
+863,Paucek Inc,Korean,expensive,Manhattan,9:27,19:54,2.8,1
+864,Leannon-Barton,Thai,expensive,Bronx,9:12,16:17,2.1,1
+865,Blick and Sons,Chinese,medium,Manhattan,9:42,19:03,1.9,1
+866,"McLaughlin, Ryan and Zboncak",Korean,expensive,Brooklyn,10:37,18:29,2.2,1
+867,Turcotte Group,Thai,cheap,Bronx,10:29,15:23,1.6,0
+868,"Jerde, Labadie and Padberg",Thai,medium,Queens,11:09,17:19,0.6,0
+869,Shanahan and Sons,Thai,medium,Bronx,11:36,17:08,1.2,0
+870,"Hansen, Schuppe and Stroman",Thai,medium,Brooklyn,10:02,18:50,2.8,0
+871,"Goodwin, Turner and Turcotte",Mexico,expensive,Brooklyn,10:40,20:34,4.9,0
+872,"Hauck, Kohler and McDermott",Italian,medium,Queens,11:07,16:59,4.9,0
+873,Feest and Sons,Thai,medium,Queens,9:53,19:00,1.0,1
+874,Murazik-Walsh,Thai,cheap,Queens,10:00,15:33,0.6,0
+875,Weissnat-Reichel,Chinese,cheap,Richmond,11:47,15:37,0.1,1
+876,Witting-Wyman,Japanese,cheap,Brooklyn,11:26,18:32,2.7,0
+877,"McCullough, Rosenbaum and Wunsch",Chinese,cheap,Richmond,11:32,17:27,3.4,1
+878,Spencer-Jakubowski,Korean,medium,Queens,10:18,18:45,0.0,0
+879,"Crona, Hirthe and Lockman",Japanese,cheap,Richmond,10:35,17:39,4.6,0
+880,Hermiston-Murazik,Chinese,expensive,Richmond,10:22,15:47,1.4,0
+881,"Sipes, Runte and Ryan",Korean,expensive,Richmond,9:03,20:06,3.5,1
+882,Walter-Swift,Japanese,cheap,Brooklyn,11:28,14:01,0.8,1
+883,Lehner-Kozey,Korean,medium,Queens,10:59,19:37,2.7,0
+884,Hayes Group,Korean,expensive,Bronx,11:19,17:56,3.6,0
+885,Russel Group,Italian,expensive,Bronx,11:20,17:07,3.5,1
+886,"Klein, Kuhn and Haag",Thai,cheap,Manhattan,9:07,16:38,2.6,1
+887,Goyette-Dare,Italian,medium,Richmond,10:26,20:30,1.5,1
+888,Hyatt and Sons,Thai,cheap,Brooklyn,11:11,18:47,0.9,1
+889,Koss Group,Thai,cheap,Richmond,11:27,14:28,0.9,0
+890,"Jacobi, Boyle and Rohan",Mexico,medium,Bronx,10:16,15:24,2.3,1
+891,Feest Inc,Italian,medium,Queens,11:05,15:30,1.7,1
+892,Abshire-Kuhlman,Thai,medium,Brooklyn,9:22,18:04,1.4,1
+893,McDermott-McGlynn,Thai,expensive,Manhattan,11:47,20:54,3.9,1
+894,"Hilll, Lockman and Rippin",Thai,cheap,Bronx,10:39,19:05,3.9,0
+895,"Maggio, Simonis and Abbott",Korean,expensive,Richmond,10:25,15:12,0.1,0
+896,Kuhn-Hintz,Korean,medium,Manhattan,9:33,17:09,4.7,0
+897,"Lowe, Bogisich and Cartwright",Thai,expensive,Manhattan,9:29,14:22,4.7,1
+898,"Frami, Nolan and Connelly",Thai,cheap,Queens,10:40,17:35,4.1,0
+899,Schiller-Bins,Mexico,cheap,Brooklyn,11:28,20:57,1.7,0
+900,Casper-Wehner,Italian,medium,Richmond,11:37,20:08,2.3,0
+901,Weissnat-Jacobi,Japanese,cheap,Manhattan,11:51,15:47,3.4,0
+902,"Rath, Nicolas and Collins",Chinese,cheap,Brooklyn,10:11,17:32,4.6,1
+903,Johns Inc,Mexico,expensive,Queens,10:24,16:48,3.0,1
+904,"Kerluke, Murphy and Cummerata",Japanese,cheap,Manhattan,9:23,14:54,1.7,0
+905,Will-Miller,Thai,cheap,Brooklyn,10:06,15:20,3.6,1
+906,"Grimes, Kuhlman and Stroman",Mexico,medium,Richmond,11:51,15:18,2.6,1
+907,"Hilll, Becker and Rath",Mexico,cheap,Manhattan,11:08,18:03,3.1,1
+908,Larson LLC,Chinese,cheap,Queens,9:03,15:09,5.0,1
+909,Stanton-Gutmann,Japanese,medium,Manhattan,11:24,17:24,1.6,1
+910,Balistreri Group,Italian,expensive,Queens,10:40,17:04,4.6,1
+911,"Mills, Renner and Schaden",Mexico,medium,Queens,9:33,14:17,2.0,1
+912,Altenwerth-Barrows,Japanese,cheap,Richmond,10:05,18:01,4.8,1
+913,VonRueden Inc,Japanese,expensive,Brooklyn,11:00,20:27,1.5,1
+914,Stark-Towne,Japanese,cheap,Brooklyn,11:30,18:43,4.6,0
+915,Witting-Rodriguez,Japanese,expensive,Brooklyn,10:45,15:30,1.8,0
+916,Bosco-Yost,Thai,cheap,Manhattan,9:34,17:39,3.3,0
+917,Turner Inc,Thai,expensive,Queens,9:58,14:30,0.4,1
+918,Waelchi-Schaefer,Thai,cheap,Richmond,9:35,18:28,0.7,1
+919,Gottlieb-Williamson,Korean,medium,Richmond,9:26,20:01,1.5,1
+920,Jones-Balistreri,Mexico,cheap,Brooklyn,10:33,20:31,4.9,0
+921,Harris-Labadie,Mexico,cheap,Richmond,9:37,17:04,2.2,1
+922,Altenwerth-Nikolaus,Korean,expensive,Richmond,10:15,14:48,3.4,0
+923,"Rice, Jaskolski and Romaguera",Thai,expensive,Manhattan,9:48,20:57,1.0,1
+924,"Herzog, Cormier and Anderson",Mexico,medium,Queens,11:01,20:28,3.0,0
+925,Schiller and Sons,Japanese,cheap,Manhattan,10:54,15:15,0.7,1
+926,Roob-Goldner,Thai,expensive,Manhattan,9:15,19:40,4.5,1
+927,Marks and Sons,Thai,cheap,Richmond,11:58,17:08,4.5,1
+928,"Hamill, Flatley and Murray",Chinese,cheap,Bronx,10:45,16:51,1.5,1
+929,Fahey Group,Thai,expensive,Manhattan,11:10,14:42,0.3,0
+930,Gusikowski-Gerlach,Thai,medium,Richmond,11:22,16:41,1.0,1
+931,West Inc,Mexico,medium,Richmond,11:02,17:15,2.7,0
+932,"Keeling, Larson and Luettgen",Korean,expensive,Brooklyn,11:28,15:16,2.6,0
+933,"Erdman, Adams and Morissette",Korean,cheap,Manhattan,10:30,18:59,2.2,1
+934,Hudson-Lynch,Chinese,medium,Bronx,11:31,16:42,0.4,1
+935,Ward LLC,Thai,expensive,Richmond,9:31,18:32,0.7,1
+936,"Wilderman, Baumbach and Koch",Mexico,cheap,Richmond,11:02,20:15,0.3,0
+937,Toy Group,Korean,expensive,Queens,10:51,18:35,0.2,1
+938,Witting and Sons,Mexico,medium,Queens,9:08,14:27,0.6,1
+939,Heaney Group,Thai,cheap,Manhattan,10:23,15:49,3.6,1
+940,"Nienow, Ziemann and Smitham",Mexico,cheap,Richmond,11:22,20:57,4.5,0
+941,Konopelski-Casper,Japanese,medium,Richmond,10:29,16:34,4.3,0
+942,Sanford LLC,Mexico,medium,Bronx,9:01,15:34,1.3,1
+943,Dooley Group,Korean,cheap,Richmond,11:53,20:39,1.5,1
+944,Fadel-Simonis,Chinese,expensive,Bronx,11:22,15:02,1.4,1
+945,Ernser LLC,Thai,medium,Bronx,9:52,19:05,1.6,0
+946,"Leuschke, Fisher and Maggio",Korean,expensive,Manhattan,11:47,16:26,3.1,0
+947,"Carter, Leuschke and Lind",Thai,medium,Bronx,11:40,19:28,1.6,1
+948,"Thompson, Kilback and Buckridge",Korean,cheap,Bronx,9:17,17:08,2.3,1
+949,"DuBuque, Prohaska and Lockman",Thai,medium,Queens,11:54,16:28,0.8,0
+950,"Hettinger, Stoltenberg and Johns",Korean,medium,Bronx,11:48,14:45,3.2,1
+951,"Schinner, Ruecker and Gislason",Japanese,cheap,Bronx,10:20,18:43,3.1,1
+952,Pouros Group,Thai,expensive,Queens,11:35,18:25,3.6,0
+953,"Ankunding, Bradtke and Dibbert",Chinese,cheap,Brooklyn,9:14,15:15,4.5,1
+954,Volkman-Koss,Thai,cheap,Brooklyn,9:15,16:23,4.3,1
+955,Greenfelder-Collins,Thai,cheap,Manhattan,9:43,15:47,2.4,1
+956,Leannon LLC,Mexico,expensive,Bronx,9:40,18:19,3.9,0
+957,"Treutel, Barrows and Konopelski",Chinese,expensive,Bronx,11:09,14:53,3.4,1
+958,Hane-Mraz,Mexico,medium,Queens,9:51,15:45,2.2,1
+959,Mayer Inc,Chinese,expensive,Bronx,10:29,20:36,2.0,1
+960,Keebler and Sons,Thai,cheap,Queens,9:42,14:48,0.5,1
+961,Hayes LLC,Korean,expensive,Queens,10:14,19:55,1.1,0
+962,"McKenzie, Kuhn and Bahringer",Japanese,cheap,Manhattan,11:15,20:46,3.5,1
+963,Buckridge and Sons,Thai,expensive,Manhattan,9:31,18:29,1.8,0
+964,O'Keefe and Sons,Mexico,expensive,Manhattan,11:11,18:43,4.5,0
+965,Anderson and Sons,Thai,medium,Manhattan,9:04,14:43,4.3,0
+966,"Witting, Haley and Senger",Chinese,medium,Manhattan,9:17,14:16,1.5,1
+967,Hand LLC,Korean,medium,Richmond,10:37,16:41,3.8,0
+968,Bode LLC,Mexico,medium,Queens,9:32,14:27,1.6,0
+969,"Brakus, Barrows and Fritsch",Japanese,expensive,Bronx,9:29,15:13,2.0,0
+970,Jones and Sons,Italian,cheap,Richmond,10:38,19:11,1.7,1
+971,Wiegand Inc,Japanese,medium,Queens,10:13,14:11,1.3,1
+972,Hills-Nikolaus,Chinese,cheap,Bronx,10:02,18:18,3.4,0
+973,"Fay, Abbott and Hessel",Japanese,expensive,Brooklyn,10:44,15:15,2.2,1
+974,Ferry Group,Italian,expensive,Queens,9:18,17:33,3.7,0
+975,Rice-Bartell,Chinese,medium,Manhattan,11:38,14:12,1.9,1
+976,Weber and Sons,Chinese,medium,Brooklyn,11:29,17:03,1.4,0
+977,Wilkinson Inc,Thai,medium,Queens,11:46,20:23,3.0,1
+978,Lesch-Gutmann,Italian,expensive,Queens,9:47,16:17,3.2,0
+979,"Cole, Gibson and Beatty",Thai,cheap,Queens,10:08,18:03,4.2,0
+980,Kilback and Sons,Japanese,cheap,Queens,11:25,14:42,2.5,1
+981,Hagenes-Monahan,Thai,medium,Richmond,11:27,14:20,1.4,0
+982,"Morar, Ullrich and Schulist",Thai,cheap,Brooklyn,9:32,19:03,4.0,0
+983,O'Hara LLC,Mexico,cheap,Queens,9:53,20:47,4.9,0
+984,"Labadie, Greenholt and Kuhn",Italian,expensive,Bronx,11:51,14:53,2.2,0
+985,Spencer Inc,Korean,medium,Brooklyn,10:20,15:00,3.7,0
+986,Lebsack-Dickinson,Mexico,medium,Manhattan,10:49,15:55,0.8,1
+987,Zemlak-Nikolaus,Japanese,medium,Brooklyn,10:23,16:43,1.3,0
+988,"Fadel, Hermiston and Bernhard",Japanese,cheap,Richmond,10:05,14:22,2.4,0
+989,Grimes-Doyle,Korean,medium,Brooklyn,9:17,15:52,4.4,0
+990,"Quigley, Franecki and O'Keefe",Italian,cheap,Bronx,10:19,16:02,2.4,0
+991,Hudson Group,Korean,expensive,Queens,10:47,20:38,1.7,0
+992,"Toy, Gislason and Brekke",Korean,medium,Bronx,11:10,15:11,0.3,0
+993,Brown-Graham,Thai,cheap,Brooklyn,9:48,14:22,2.5,1
+994,Howell-Lindgren,Japanese,expensive,Bronx,10:28,18:33,3.6,1
+995,Bernhard-Hammes,Italian,expensive,Brooklyn,9:04,17:03,3.0,1
+996,Gutmann Inc,Mexico,expensive,Queens,11:46,17:10,1.0,0
+997,Steuber-Gorczany,Mexico,cheap,Bronx,10:32,17:36,0.2,1
+998,Koelpin-Deckow,Thai,expensive,Brooklyn,10:49,18:26,2.5,1
+999,Beier-Bergstrom,Thai,cheap,Bronx,11:59,16:34,0.1,0
+1000,Mraz-Rosenbaum,Italian,medium,Bronx,11:49,19:36,3.2,1
